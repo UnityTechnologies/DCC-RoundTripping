@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 41012b969374b16408c00c1496f03b7d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hedge_Stems_01_LOWRES
+    100004: Hedge_Stems_02_LOWRES
+    100006: Hedge_Stems_03_LOWRES
+    100008: Hedge_Stems_04_LOWRES
+    100010: Hedge_Stems_05_LOWRES
+    100012: Hedge_Stems_06_LOWRES
+    100014: Cylinder001
+    100016: Cylinder002
+    100018: Cylinder003
+    100020: Cylinder004
+    100022: Cylinder005
+    100024: Cylinder006
+    100026: ISOLATED_STEM
+    400000: //RootNode
+    400002: Hedge_Stems_01_LOWRES
+    400004: Hedge_Stems_02_LOWRES
+    400006: Hedge_Stems_03_LOWRES
+    400008: Hedge_Stems_04_LOWRES
+    400010: Hedge_Stems_05_LOWRES
+    400012: Hedge_Stems_06_LOWRES
+    400014: Cylinder001
+    400016: Cylinder002
+    400018: Cylinder003
+    400020: Cylinder004
+    400022: Cylinder005
+    400024: Cylinder006
+    400026: ISOLATED_STEM
+    2100000: 08___Default
+    2100002: Stems
+    2100004: Leaves
+    2300000: Hedge_Stems_01_LOWRES
+    2300002: Hedge_Stems_02_LOWRES
+    2300004: Hedge_Stems_03_LOWRES
+    2300006: Hedge_Stems_04_LOWRES
+    2300008: Hedge_Stems_05_LOWRES
+    2300010: Hedge_Stems_06_LOWRES
+    2300012: Cylinder001
+    2300014: Cylinder002
+    2300016: Cylinder003
+    2300018: Cylinder004
+    2300020: Cylinder005
+    2300022: Cylinder006
+    3300000: Hedge_Stems_01_LOWRES
+    3300002: Hedge_Stems_02_LOWRES
+    3300004: Hedge_Stems_03_LOWRES
+    3300006: Hedge_Stems_04_LOWRES
+    3300008: Hedge_Stems_05_LOWRES
+    3300010: Hedge_Stems_06_LOWRES
+    3300012: Cylinder001
+    3300014: Cylinder002
+    3300016: Cylinder003
+    3300018: Cylinder004
+    3300020: Cylinder005
+    3300022: Cylinder006
+    4300000: Hedge_Stems_06_LOWRES
+    4300002: Hedge_Stems_01_LOWRES
+    4300004: Hedge_Stems_02_LOWRES
+    4300006: Hedge_Stems_03_LOWRES
+    4300008: Hedge_Stems_04_LOWRES
+    4300010: Hedge_Stems_05_LOWRES
+    4300012: Cylinder001
+    4300014: Cylinder002
+    4300016: Cylinder003
+    4300018: Cylinder004
+    4300020: Cylinder005
+    4300022: Cylinder006
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08___Default
+    second: {fileID: 2100000, guid: 5dc1920a690373047ba24c67f3d8a558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: 5a73110a2774ca24ba18267583596b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stems
+    second: {fileID: 2100000, guid: 5dc1920a690373047ba24c67f3d8a558, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 017b3526884e1a245b0ee131349d09df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DH_DOOR_ARCH
+    100002: DH_FRONT_BAR
+    100004: DH_INTERIOR
+    100006: DH_OUTER
+    100008: DH_POSTS
+    100010: DH_ROOF_SUPPORT
+    100012: //RootNode
+    100014: ROOF_TILES_SURFACE
+    100016: TILES ARCH
+    100018: TILES_LEFT
+    100020: TILES_RIGHT
+    100022: AvizstudioToolsATiles001
+    100024: DH_DOOR_ARCH_LOWRES
+    100026: DH_FRONT_BAR_LOWRES
+    100028: DH_INTERIOR_LOWRES
+    100030: DH_OUTER_LOWRES
+    100032: DH_POSTS_LOWRES
+    100034: DH_ROOF_SUPPORT_LOWRES
+    100036: TILES_LEFT_LOWRES
+    400000: DH_DOOR_ARCH
+    400002: DH_FRONT_BAR
+    400004: DH_INTERIOR
+    400006: DH_OUTER
+    400008: DH_POSTS
+    400010: DH_ROOF_SUPPORT
+    400012: //RootNode
+    400014: ROOF_TILES_SURFACE
+    400016: TILES ARCH
+    400018: TILES_LEFT
+    400020: TILES_RIGHT
+    400022: AvizstudioToolsATiles001
+    400024: DH_DOOR_ARCH_LOWRES
+    400026: DH_FRONT_BAR_LOWRES
+    400028: DH_INTERIOR_LOWRES
+    400030: DH_OUTER_LOWRES
+    400032: DH_POSTS_LOWRES
+    400034: DH_ROOF_SUPPORT_LOWRES
+    400036: TILES_LEFT_LOWRES
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: 10 - Default
+    2100006: DOG_HOUSE_TILES
+    2100008: DOG_HOUSE
+    2300000: DH_DOOR_ARCH
+    2300002: DH_FRONT_BAR
+    2300004: DH_INTERIOR
+    2300006: DH_OUTER
+    2300008: DH_POSTS
+    2300010: DH_ROOF_SUPPORT
+    2300012: ROOF_TILES_SURFACE
+    2300014: TILES ARCH
+    2300016: TILES_LEFT
+    2300018: TILES_RIGHT
+    2300020: AvizstudioToolsATiles001
+    2300022: DH_DOOR_ARCH_LOWRES
+    2300024: DH_FRONT_BAR_LOWRES
+    2300026: DH_INTERIOR_LOWRES
+    2300028: DH_OUTER_LOWRES
+    2300030: DH_POSTS_LOWRES
+    2300032: DH_ROOF_SUPPORT_LOWRES
+    2300034: TILES_LEFT_LOWRES
+    3300000: DH_DOOR_ARCH
+    3300002: DH_FRONT_BAR
+    3300004: DH_INTERIOR
+    3300006: DH_OUTER
+    3300008: DH_POSTS
+    3300010: DH_ROOF_SUPPORT
+    3300012: ROOF_TILES_SURFACE
+    3300014: TILES ARCH
+    3300016: TILES_LEFT
+    3300018: TILES_RIGHT
+    3300020: AvizstudioToolsATiles001
+    3300022: DH_DOOR_ARCH_LOWRES
+    3300024: DH_FRONT_BAR_LOWRES
+    3300026: DH_INTERIOR_LOWRES
+    3300028: DH_OUTER_LOWRES
+    3300030: DH_POSTS_LOWRES
+    3300032: DH_ROOF_SUPPORT_LOWRES
+    3300034: TILES_LEFT_LOWRES
+    4300000: DH_OUTER
+    4300002: DH_ROOF_SUPPORT
+    4300004: DH_POSTS
+    4300006: DH_FRONT_BAR
+    4300008: DH_DOOR_ARCH
+    4300010: DH_INTERIOR
+    4300012: ROOF_TILES_SURFACE
+    4300014: TILES_LEFT
+    4300016: TILES_RIGHT
+    4300018: TILES ARCH
+    4300020: TILES_LEFT_LOWRES
+    4300022: DH_ROOF_SUPPORT_LOWRES
+    4300024: DH_POSTS_LOWRES
+    4300026: DH_FRONT_BAR_LOWRES
+    4300028: DH_DOOR_ARCH_LOWRES
+    4300030: DH_INTERIOR_LOWRES
+    4300032: DH_OUTER_LOWRES
+    4300034: AvizstudioToolsATiles001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOG_HOUSE
+    second: {fileID: 2100000, guid: 23c86a4f7099b5f42b93a6f0782e9670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOG_HOUSE_TILES
+    second: {fileID: 2100000, guid: 6fdd83b54f2d6904bbc6a66c6099b242, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

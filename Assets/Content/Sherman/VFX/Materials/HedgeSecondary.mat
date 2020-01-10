@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HedgeSecondary
+  m_Shader: {fileID: 4800000, guid: 6d2739c21ebf0324b981caa86d3ecde8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_30F10F99:
+        m_Texture: {fileID: 2800000, guid: b6e1aa5d1cfd3c94fb42e9d51bb3e8be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_6509139F:
+        m_Texture: {fileID: 2800000, guid: 2dcdfe1232c10434a89e2ffeb4b393ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_84B3D50B:
+        m_Texture: {fileID: 2800000, guid: 33d592c6bdb203644a7f39149ff08651, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D07FC10F:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4A53B152: 0.148
+    - Vector1_7E3FECCD: 0.5
+    - Vector1_85F801F3: 25
+    - Vector1_C08F7E19: 25
+    - Vector1_C5686721: 1
+    - Vector1_CAE29B3C: 150
+    - Vector1_EA5386B: 3
+    - Vector1_F44F7006: 150
+    - _DistanceFromCenter: 0.3
+    m_Colors:
+    - Vector2_ABFE2E9E: {r: 0.2, g: 0.8, b: 0, a: 0}
+    - Vector3_4DA1EEF8: {r: 3, g: 3, b: 3, a: 1}
+    - Vector3_B1D6E68C: {r: -0.4181357, g: 1.182232, b: -17.39657, a: 0}
+    - Vector3_B561D7C5: {r: 0, g: 0, b: 1.06, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HedgePosition: {r: 0.92, g: 0.0024345424, b: -2.62352, a: 0}
+    - _RaccoonPosition: {r: -3.8, g: 1.194, b: -17.8, a: 0}
